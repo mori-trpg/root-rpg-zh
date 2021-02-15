@@ -17,10 +17,9 @@ title: 茂林源記
 email: mori940217@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ROOT: RPG 中文網站
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/root-rpg-zh" # the subpath of your site, e.g. /blog
+url: "https://mori-trpg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: mori-trpg
 
 # Build settings
 markdown: kramdown
