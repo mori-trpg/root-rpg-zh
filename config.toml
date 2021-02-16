@@ -1,13 +1,13 @@
-baseurl = "http://example.com/"
-title = "Your site title"
-languageCode = "en-us"
+baseurl = "https://mori-trpg.github.io/root-rpg-zh"
+title = "ROOT"
+languageCode = "zh-tw"
 disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 10
 
 [author]
-    name = "Your Name"
+    name = "茂林源記"
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
@@ -49,11 +49,11 @@ paginate = 10
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Your favourite quote or soundbite."
+    tagline = "ROOT: RPG 中文站"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
-    home = "Home"
+    home = "主頁"
 
     # Metadata used to drive integrations.
     googleAnalytics = "Your Google Analytics tracking code"
