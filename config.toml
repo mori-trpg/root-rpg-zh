@@ -1,76 +1,59 @@
 baseurl = "/"
 relativeURLs = true
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
 title = "ROOT"
-languageCode = "zh-tw"
-disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
-MetaDataFormat = "toml"
-theme = "hyde-x"
-paginate = 10
+theme = "hugo-theme-learn"
 publishDir = "docs"
 
-[author]
-    name = "茂林源記"
+# For search functionality
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
 
-[permalinks]
-    # Optional. Change the permalink format for the 'post' content type.
-    # The format shown here is the same one Jekyll/Octopress uses by default.
-    post = "/blog/:year/:month/:day/:title/"
-
-[taxonomies]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
-
-#
-# All parameters below here are optional and can be mixed and matched.
-#
 [params]
-    # If false display full article contents in blog index.
-    # Otherwise show description and 'read on' link to individual blog post page.
-    # Default (if omitted) is true.
-    truncate = true
+    # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.
+    # Useful to give opportunity to people to create merge request for your doc.
+    # See the config.toml file from this documentation site to have an example.
+    editURL = ""
+    # Author of the site, will be used in meta information
+    author = "mori"
+    # Description of the site, will be used in meta information
+    description = "茂林源記：RPG中文網站"
+    # Shows a checkmark for visited pages on the menu
+    showVisitedLinks = false
+    # Disable search function. It will hide search bar
+    disableSearch = true
+    # Javascript and CSS cache are automatically busted when new version of site is generated.
+    # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+    disableAssetsBusting = false
+    # Set this to true to disable copy-to-clipboard button for inline code.
+    disableInlineCopyToClipBoard = true
+    # A title for shortcuts in menu is set by default. Set this to true to disable it.
+    disableShortcutsTitle = true
+    # If set to false, a Home button will appear below the search bar on the menu.
+    # It is redirecting to the landing page of the current language if specified. (Default is "/")
+    disableLandingPageButton = false
+    # When using mulitlingual website, disable the switch language button.
+    disableLanguageSwitchingButton = true
+    # Hide breadcrumbs in the header and only show the current page title
+    disableBreadcrumb = true
+    # If set to true, prevents Hugo from including the mermaid module if not needed (will reduce load times and traffic)
+    disableMermaid = true
+    # Specifies the remote location of the mermaid js
+    customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+    # Hide Next and Previous page buttons normally displayed full height beside content
+    disableNextPrev = true
+    # Order sections in menu by "weight" or "title". Default to "weight"
+    ordersectionsby = "weight"
+    # Change default color scheme with a variant one. Can be "red", "blue", "green".
+    themeVariant = "green"
+    # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+    custom_css = ["css/foo.css", "css/bar.css"]
+    # Change the title separator. Default to "::".
+    titleSeparator = "-"
 
-    # Used when a given page doesn't set its own.
-    defaultDescription = "Your default page description"
-    defaultKeywords = "your,default,page,keywords"
-
-    # Hide estimated reading time for posts.
-    # Default (if omitted) is false.
-    hideReadingTime = false
-
-    # Changes sidebar background and link/accent colours.
-    # See below for more colour options.
-    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-    theme = "theme-base-0b"
-
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "sunburst"
-
-    # Optional additional custom CSS file URL, will override other styles.
-    customCSS = ""
-
-    # Displays under the author name in the sidebar, keep it short.
-    # You can use markdown here.
-    tagline = "ROOT: RPG 中文站"
-
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Blog".
-    home = "主頁"
-
-    # Metadata used to drive integrations.
-    googleAnalytics = "Your Google Analytics tracking code"
-    gravatarHash = "MD5 hash of your Gravatar email address"
-
-    # Sidebar social links, these must be full URLs.
-    github = ""
-    bitbucket = ""
-    stackOverflow = ""
-    linkedin = ""
-    googleplus = ""
-    facebook = ""
-    twitter = ""
-    youtube = ""
-
-    # Other social-like sidebar links
-    rss = false  # switch to true to enable RSS icon link
-    flattr = ""  # populate with your flattr uid
+[Languages]
+[Languages.zh]
+    title = "茂林源記：中文網站"
+    landingPageURL = "/"
+    landingPageName = "<i class='fas fa-home'></i> 主頁"

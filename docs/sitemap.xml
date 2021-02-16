@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2021-02-16T05:26:41+08:00</lastmod>
+    <loc>/basics/woodland/</loc>
+    <lastmod>2021-02-17T00:46:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/</loc>
+    <lastmod>2021-02-17T00:43:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/factions/</loc>
+    <lastmod>2021-02-17T01:57:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/vagabonds/</loc>
+    <lastmod>2021-02-17T02:08:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
@@ -12,7 +32,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
