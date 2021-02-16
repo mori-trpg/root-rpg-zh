@@ -1,10 +1,12 @@
-baseurl = "https://mori-trpg.github.io/root-rpg-zh"
+baseurl = "/"
+relativeURLs = true
 title = "ROOT"
 languageCode = "zh-tw"
 disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 10
+publishDir = "docs"
 
 [author]
     name = "茂林源記"
