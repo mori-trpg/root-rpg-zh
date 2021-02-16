@@ -15,4 +15,12 @@
     <loc>/</loc>
   </url>
   
+  <url>
+    <loc>/character-creation/</loc>
+  </url>
+  
+  <url>
+    <loc>/background/</loc>
+  </url>
+  
 </urlset>
