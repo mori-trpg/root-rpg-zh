@@ -7,7 +7,7 @@ weight: 25
 
 # 茂林源記
 
-![Kickstarter](/images/kickstarter_cover.jpg)
+![Kickstarter](/images/kickstarter-cover.jpg)
 
 ## Root: The Tabletop Roleplaying Game
 《茂林源記：RPG》是一款基於得獎桌遊《茂林源記：森林的權力之戰》的桌上型角色扮演遊戲，一個關於衝突與權力，貓、鳥、老鼠、兔子與狐狸之間鬥爭的RPG。

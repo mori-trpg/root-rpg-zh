@@ -9,6 +9,8 @@ pre : "<b>五、 </b>"
 
 # 傷害、裝備與成長 Harm, Equipment and Advancement
 
+![Harm Equipment](/images/harm-equipment.jpg)
+
 > ## 目錄
 > + [傷害](./harm-tracks/)
 > + [裝備](./equipment-and-treasure/)

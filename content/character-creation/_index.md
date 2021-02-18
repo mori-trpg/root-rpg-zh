@@ -9,6 +9,8 @@ pre = "<b>二、 </b>"
 
 # 創建角色 Character Creation
 
+![Character Creation](/images/character-creation.jpg)
+
 > ## 目錄
 > + 扮演書
 > + [名字、種族與外表](./name-species-and-look/)

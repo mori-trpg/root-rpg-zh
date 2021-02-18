@@ -9,6 +9,8 @@ pre : "<b>四、 </b>"
 
 # 動作 Move
 
+![Moves](/images/moves.jpg)
+
 > ## 目錄
 > + [基本動作](./the-basic-moves/)
 > + [武器動作](./weapon-moves/)
