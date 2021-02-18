@@ -57,3 +57,7 @@ publishDir = "docs"
     title = "茂林源記：中文網站"
     landingPageURL = "/"
     landingPageName = "<i class='fas fa-home'></i> 主頁"
+
+# https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
+[markup.goldmark.renderer]
+    unsafe= true
