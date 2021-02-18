@@ -1,5 +1,6 @@
 ---
 title : "成長 Advancement"
+menuTitle : "成長"
 date : 2021-02-17T00:43:03+08:00
 weight : 45
 ---

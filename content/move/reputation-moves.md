@@ -1,5 +1,6 @@
 ---
 title : "名聲動作 Reputation Moves"
+menuTitle : "名聲動作"
 date : 2021-02-17T00:43:03+08:00
 weight : 36
 ---

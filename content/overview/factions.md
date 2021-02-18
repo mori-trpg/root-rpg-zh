@@ -1,5 +1,6 @@
 ---
 title: "陣營 The Factions"
+menuTitle : "陣營"
 date: 2021-02-17T01:57:43+08:00
 weight: 2
 ---

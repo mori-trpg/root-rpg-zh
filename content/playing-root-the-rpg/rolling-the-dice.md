@@ -1,5 +1,6 @@
 ---
 title: "擲骰 Rolling the Dice"
+menuTitle : "擲骰"
 date: 2021-02-17T01:57:43+08:00
 weight: 22
 ---

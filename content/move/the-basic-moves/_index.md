@@ -1,5 +1,6 @@
 ---
 title : "基本動作 The Basic Moves"
+menuTitle : "基本動作"
 date : 2021-02-17T00:43:03+08:00
 weight : 31
 ---

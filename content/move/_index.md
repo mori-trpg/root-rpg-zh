@@ -1,5 +1,6 @@
 ---
 title : "動作 Move"
+menuTitle : "動作"
 date : 2021-02-17T00:43:03+08:00
 weight : 30
 chapter : true

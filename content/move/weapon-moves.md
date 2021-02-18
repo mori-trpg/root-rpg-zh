@@ -1,5 +1,6 @@
 ---
 title : "武器動作 Weapon Moves"
+menuTitle : "武器動作"
 date : 2021-02-17T00:43:03+08:00
 weight : 34
 ---

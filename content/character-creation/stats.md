@@ -1,5 +1,6 @@
 ---
 title: "能力值 Stats"
+menuTitle : "能力值"
 date: 2021-02-17T01:57:43+08:00
 weight: 12
 ---

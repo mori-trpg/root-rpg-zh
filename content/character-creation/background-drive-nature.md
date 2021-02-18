@@ -1,5 +1,6 @@
 ---
 title: "背景、動機與天性 Background, Drive & Nature"
+menuTitle : "背景、動機與天性"
 date: 2021-02-17T01:57:43+08:00
 weight: 13
 ---
