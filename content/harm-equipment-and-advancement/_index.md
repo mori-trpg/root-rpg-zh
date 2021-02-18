@@ -7,7 +7,7 @@ chapter : true
 pre : "<b>五、 </b>"
 ---
 
-# **傷害、裝備與成長**
+# 傷害、裝備與成長 Harm, Equipment and Advancement
 
 > ## 目錄
 > + [傷害](./harm-tracks/)

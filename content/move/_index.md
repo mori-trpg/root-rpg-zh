@@ -7,7 +7,7 @@ chapter : true
 pre : "<b>四、 </b>"
 ---
 
-# **動作**
+# 動作 Move
 
 > ## 目錄
 > + [基本動作](./the-basic-moves/)

@@ -7,7 +7,7 @@ chapter = true
 pre = "<b>二、 </b>"
 +++
 
-# **創建角色**
+# 創建角色 Character Creation
 
 > ## 目錄
 > + 扮演書

@@ -7,7 +7,7 @@ chapter = true
 pre = "<b>三、 </b>"
 +++
 
-# **遊玩茂林源記**
+# 遊玩茂林源記 Playing Root: The RPG
 
 > ## 目錄
 > + [說話與動作](./talking-and-moves/)
