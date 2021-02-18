@@ -6,8 +6,9 @@ chapter : true
 pre : "<b>五、 </b>"
 ---
 
-# 傷害、裝備與成長
+# **傷害、裝備與成長**
 
-## [傷害](./harm-tracks/)
-## [裝備](./equipment-and-treasure/)
-## [成長](./advancement/)
+> ## 目錄
+> + [傷害](./harm-tracks/)
+> + [裝備](./equipment-and-treasure/)
+> + [成長](./advancement/)

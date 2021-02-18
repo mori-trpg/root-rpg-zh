@@ -6,9 +6,10 @@ chapter : true
 pre : "<b>四、 </b>"
 ---
 
-# 動作
+# **動作**
 
-## [基本動作](./the-basic-moves/)
-## [武器動作](./weapon-moves/)
-## [旅行動作](./travel-moves/)
-## [名聲動作](./reputation-moves/)
+> ## 目錄
+> + [基本動作](./the-basic-moves/)
+> + [武器動作](./weapon-moves/)
+> + [旅行動作](./travel-moves/)
+> + [名聲動作](./reputation-moves/)

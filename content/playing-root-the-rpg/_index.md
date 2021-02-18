@@ -8,5 +8,6 @@ pre = "<b>三、 </b>"
 
 # 遊玩茂林源記
 
-## [說話與動作](./talking-and-moves/)
-## [擲骰](./rolling-the-dice/)
+> ## 目錄
+> + [說話與動作](./talking-and-moves/)
+> + [擲骰](./rolling-the-dice/)
