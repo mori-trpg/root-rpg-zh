@@ -1,0 +1,18 @@
+<!-- Partial intended to be overwritten to add custom headers, like CSS or any other info
+<style type="text/css">
+    /* Custom css */
+</style>
+-->
+<script>
+window.onload = function(){
+  // handle subtitle
+  if($("#body-inner h1:first")){
+    var titleText = $("#body-inner h1").text().trim();
+    var mainTitle = titleText.split(" ")[0];
+    var subTitle = titleText.split(" ").slice(1).join(" ");
+    
+    $("#body-inner h1").html(mainTitle+`<div class="Subtitle">${subTitle}</div>`);
+  }
+  
+}
+</script>

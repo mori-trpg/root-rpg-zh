@@ -48,7 +48,7 @@ publishDir = "docs"
     # Change default color scheme with a variant one. Can be "red", "blue", "green".
     themeVariant = "green"
     # Provide a list of custom css files to load relative from the `static/` folder in the site root.
-    custom_css = ["css/foo.css", "css/bar.css"]
+    custom_css = ["css/custom.css"]
     # Change the title separator. Default to "::".
     titleSeparator = "-"
 
