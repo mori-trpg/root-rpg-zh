@@ -9,6 +9,12 @@ weight: 25
 
 ![Kickstarter](/images/kickstarter-cover.jpg)
 
+{{% notice warning %}}
+**本站為非營利網站，翻譯僅供遊玩茂林源記時參照，請勿在任何公開管道上轉載、發佈！<br>
+網頁所載的所有資料、標誌、圖像、連結及其他資料等，其所有權屬於Leder Games與Magpie Games。**<br>
+This site is a non-official fan website for reference while playing ROOT: The RPG. All rights belong to Leder Games and Magpie Games. Please do not post or share links to any public domain. If any issue occurs, please kindly contact me via Plurk. 
+{{% /notice %}}
+
 ## Root: The Tabletop Roleplaying Game
 《茂林源記：RPG》是一款基於得獎桌遊《茂林源記：森林的權力之戰》的桌上型角色扮演遊戲，一個關於衝突與權力，貓、鳥、老鼠、兔子與狐狸之間鬥爭的RPG。
 
