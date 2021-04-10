@@ -12,7 +12,7 @@ weight: 1
 {{% notice warning %}}
 **本站為非營利網站，翻譯僅供遊玩茂林源記時參照，請勿在任何公開管道上轉載、發佈！<br>
 網頁所載的所有資料、標誌、圖像、連結及其他資料等，其所有權屬於Leder Games與Magpie Games。**<br>
-This site is a non-official fan website for reference while playing ROOT: The RPG. All rights belong to Leder Games and Magpie Games. Please do not post or share links to any public domain. If any issue occurs, please kindly contact me via Plurk. 
+This site is a non-official fan website for reference while playing ROOT: The RPG. All rights belong to Leder Games and Magpie Games. Please do not post or share links to any public domain. If any issue occurs, please kindly contact me via mail. 
 {{% /notice %}}
 
 ## Root: The Tabletop Roleplaying Game
